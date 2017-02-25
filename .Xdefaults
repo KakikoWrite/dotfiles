@@ -1,0 +1,17 @@
+!! Patn: ~/.Xdefaults
+!! Link: ~/.Xresources
+
+Uterm*VT100*font:12x24
+Xterm*VT100*font:12x24
+
+
+!! kterm {{{
+!! 8 color [black, red, green, yellow, blue, magenta, cyan, white]
+KTerm*VT100*kanjiMode: euc
+KTerm*VT100*openIm: True
+Kterm*foreground: Blue
+Kterm*background: Black
+KTerm*cursorColor: Cyan
+KTerm*pointerColor: Magenta
+!!}}}
+

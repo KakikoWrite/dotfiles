@@ -1,0 +1,8 @@
+## Path: ~/.screen
+## Editor: Sato Tomohiko
+## Last change: 2017/02/10 05:41:02.
+## http://frexx.de/xterm-256-notes/
+# erase background with current bg color
+defbce "on"
+# do not use 'screen-bce'
+term xterm-256color
